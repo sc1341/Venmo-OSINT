@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # 
 # Venmo-OSINT Tool
-#
-# Disclaimer: I am not responsible for any illicit activities conducted using this tool :-)
-# 
-#
 # Created by sc1341
 
 import argparse

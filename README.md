@@ -2,17 +2,17 @@
  Venmo: Open Source Intelligence Investigation Tool
 
 
-
-
 ## Usage
 
-Install Dependencies:
+Install and run the script:
 
-`pip3 install -r requirements.txt`
+`pip3 install venmo-osint`
 
-Run the script:
 
-`python3 main.py --username YOURUSERNAME --filename YOUROUTPUTFILENAME`
+`venmo-osint --username YOURUSERNAME --filename YOURFILENAME`
+
 
 
 The script then returns all public transactions and their recipients to the user
+
+
